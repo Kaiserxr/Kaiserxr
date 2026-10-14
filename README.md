@@ -34,10 +34,3 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiserxr&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kaiserxr&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/da291c/Kaiserxr" alt="Khanh's contribution graph" />
-</p>
