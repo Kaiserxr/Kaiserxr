@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Khanh 👋</h1>
+<h3 align="center">Computer Science student at the University of South Florida</h3>
 
-<!--
-**Kaiserxr/Kaiserxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🤖 About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Studying **Computer Science** at the **University of South Florida**
+- 🧠 Really interested in **Artificial Intelligence** and how it's changing the way we build software
+- 🔨 Currently working on AI projects and learning something new every day
+- 🌱 Always open to collaborating on cool ideas
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| [**Flympic**](https://github.com/Kaiserxr/flympic) | Coming soon | 🚧 In progress |
+| [**Manchester United Fan Site**](https://kaiserxr.github.io/ManU-website/) | Club news, kits and player profiles built with HTML & CSS | ✅ Live |
+
+---
+
+### 🌐 Personal Website
+
+👉 **[Visit my website]()**
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kaiserxr&show_icons=true&theme=tokyonight&hide_border=true" alt="Khanh's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiserxr&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kaiserxr&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/da291c/Kaiserxr" alt="Khanh's contribution graph" />
+</p>
