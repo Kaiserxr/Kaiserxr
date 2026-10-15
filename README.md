@@ -31,6 +31,6 @@
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kaiserxr&show_icons=true&theme=tokyonight&hide_border=true" alt="Khanh's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiserxr&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiserxr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&cache_seconds=21600" alt="Top languages" />
 </p>
 
