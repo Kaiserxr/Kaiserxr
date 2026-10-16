@@ -16,7 +16,7 @@
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [**Flympic**](https://github.com/Kaiserxr/flympic) | Coming soon | 🚧 In progress |
+| [**Flympic**](https://github.com/bekhruzmd/flympics) | Putting fruit flies into virtual Olympic events | 🚧 In progress |
 | [**Manchester United Fan Site**](https://kaiserxr.github.io/ManU-website/) | Club news, kits and player profiles built with HTML & CSS | ✅ Live |
 
 ---
