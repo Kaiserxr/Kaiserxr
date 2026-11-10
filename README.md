@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Khanh 👋</h1>
-<h3 align="center">Computer Science student at the University of South Florida</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -12,69 +11,34 @@
   <img src="https://komarev.com/ghpvc/?username=Kaiserxr&style=for-the-badge&color=7aa2f7&label=Profile+Views" alt="Profile views" />
 </p>
 
----
-
-### 🤖 About me
-
-- 🎓 Studying **Computer Science** at the **University of South Florida**
-- 🧠 Really interested in **Artificial Intelligence** and how it's changing the way we build software
-- 🔨 Currently working on AI projects and learning something new every day
-- 🌱 Always open to collaborating on cool ideas
-
----
-
-### 🛠️ Tech Stack
+🎓 CS student at the **University of South Florida** · 🧠 Into **AI** and how it's changing software · 🔨 Building AI projects · 🌱 Open to collaborating
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css&perline=7" alt="Languages" />
-  </a>
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,react,nodejs,git,github,vscode,linux&perline=8" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,pytorch,tensorflow,react,git,linux&perline=12" alt="Tech stack" />
   </a>
 </p>
 
----
-
-### 📊 GitHub Stats
-
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Kaiserxr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Khanh's GitHub stats" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kaiserxr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="150" src="https://github-stats-extended.vercel.app/api?username=Kaiserxr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Khanh's GitHub stats" />
+  <img height="150" src="https://streak-stats.demolab.com?user=Kaiserxr&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kaiserxr&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
+<details>
+<summary><b>📊 More stats</b></summary>
+<br/>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaiserxr&theme=tokyonight" alt="Profile details" />
+  <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kaiserxr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kaiserxr&theme=tokyonight&utcOffset=-5" alt="Productive time" />
 </p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kaiserxr&theme=tokyonight" alt="Repos per language" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kaiserxr&theme=tokyonight&utcOffset=-5" alt="Productive time" />
-</p>
-
----
-
-### 🧊 3D Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kaiserxr/Kaiserxr/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
 </p>
 
----
-
-### 🐍 Contribution Snake
+</details>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kaiserxr/Kaiserxr/output/github-snake-dark.svg" alt="Snake eating my contributions" />
-</p>
-
----
-
-<p align="center">
-  <i>Thanks for stopping by! ⭐</i>
 </p>
